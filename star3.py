@@ -1,4 +1,6 @@
-#for문이용구현
-N= 6
-for i in range(1, N):
-  print("*"*i)
+# print 함수 구현
+print("*****")
+print(" ****")
+print("  ***")
+print("   **")
+print("    *")
